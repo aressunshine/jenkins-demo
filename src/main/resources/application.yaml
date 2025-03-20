@@ -1,0 +1,9 @@
+server:
+  port: 8898
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: springboot-demo
+
